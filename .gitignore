@@ -22,3 +22,4 @@ conversation_reports.txt
 evaluation/ragas_results.json
 evaluation/ragas_dataset.json
 .claude/
+*.pdf
