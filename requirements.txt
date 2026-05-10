@@ -20,9 +20,10 @@ langsmith==0.1.85
 rank-bm25==0.2.2
 faiss-cpu>=1.7.4
 
-sentence-transformers==3.0.1
-transformers==4.42.3
-torch==2.3.1
+# sentence-transformers and torch only needed if DISABLE_BGE_RERANKER=false
+# sentence-transformers==3.0.1
+# transformers==4.42.3
+# torch==2.3.1
 
 ragas==0.1.10
 datasets==2.20.0
