@@ -18,7 +18,7 @@ langgraph==0.1.7
 langsmith==0.1.85
 
 rank-bm25==0.2.2
-faiss-cpu==1.8.0.post1
+faiss-cpu>=1.7.4
 
 sentence-transformers==3.0.1
 transformers==4.42.3
