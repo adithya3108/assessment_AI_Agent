@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "description": "Personality assessment measuring workplace behavior dimensions for leadership, fit, influencing style, collaboration, and development.",
+    "skills": ["personality", "leadership", "workplace behavior", "executive", "culture fit"],
+    "test_type": "P",
+    "duration": "25 minutes",
+    "job_levels": ["graduate", "professional", "manager", "executive"]
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "description": "OPQ report mapping personality results to universal workplace competencies.",
+    "skills": ["competency", "leadership", "personality", "report"],
+    "test_type": "P",
+    "duration": "",
+    "job_levels": ["professional", "manager", "executive"]
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "description": "Leadership-focused OPQ report for executive and senior leader assessment.",
+    "skills": ["leadership", "executive", "personality", "benchmark"],
+    "test_type": "P",
+    "duration": "",
+    "job_levels": ["manager", "executive"]
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "description": "Adaptive cognitive ability assessment covering numerical, deductive, and inductive reasoning.",
+    "skills": ["cognitive", "ability", "reasoning", "numerical", "deductive", "inductive"],
+    "test_type": "A",
+    "duration": "36 minutes",
+    "job_levels": ["graduate", "professional", "manager"]
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "description": "Live coding interview for software engineering skills where interviewers can assess role-specific programming tasks.",
+    "skills": ["coding", "software", "programming", "engineering", "rust", "java", "backend"],
+    "test_type": "K",
+    "duration": "Variable",
+    "job_levels": ["professional", "senior"]
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "description": "Knowledge test for Linux programming and systems concepts.",
+    "skills": ["linux", "systems", "programming", "infrastructure", "networking"],
+    "test_type": "K",
+    "duration": "25 minutes",
+    "job_levels": ["professional", "senior"]
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "description": "Knowledge test for networking implementation concepts.",
+    "skills": ["networking", "implementation", "infrastructure"],
+    "test_type": "K",
+    "duration": "7 minutes",
+    "job_levels": ["professional"]
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "description": "Advanced Core Java assessment for experienced engineers working with production Java services.",
+    "skills": ["java", "core java", "advanced", "backend", "microservices", "jvm"],
+    "test_type": "K",
+    "duration": "13 minutes",
+    "job_levels": ["senior", "professional"]
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "description": "Knowledge test for Spring framework and Java backend development.",
+    "skills": ["spring", "java", "backend", "microservices"],
+    "test_type": "K",
+    "duration": "9 minutes",
+    "job_levels": ["professional", "senior"]
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "description": "Knowledge test for REST API concepts and web service design.",
+    "skills": ["rest", "api", "web services", "backend"],
+    "test_type": "K",
+    "duration": "12 minutes",
+    "job_levels": ["professional"]
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "description": "Knowledge test for SQL and relational database concepts.",
+    "skills": ["sql", "database", "relational databases", "data"],
+    "test_type": "K",
+    "duration": "9 minutes",
+    "job_levels": ["professional"]
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "description": "Knowledge test for AWS development and cloud deployment.",
+    "skills": ["aws", "cloud", "deployment", "development", "ci/cd"],
+    "test_type": "K",
+    "duration": "6 minutes",
+    "job_levels": ["professional", "senior"]
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "description": "Knowledge test for Docker containers and containerized deployment.",
+    "skills": ["docker", "containers", "devops", "deployment"],
+    "test_type": "K",
+    "duration": "10 minutes",
+    "job_levels": ["professional"]
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "description": "Situational judgement assessment for graduate workplace decision-making scenarios.",
+    "skills": ["graduate", "situational judgement", "scenarios", "workplace judgement"],
+    "test_type": "B",
+    "duration": "Untimed",
+    "job_levels": ["graduate", "entry"]
+  },
+  {
+    "name": "SHL Verify Interactive - Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "description": "Interactive numerical reasoning assessment for interpreting data and financial or quantitative information.",
+    "skills": ["numerical", "reasoning", "finance", "data", "analysis"],
+    "test_type": "A,S",
+    "duration": "20 minutes",
+    "job_levels": ["graduate", "professional"]
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "description": "Knowledge test for financial accounting concepts.",
+    "skills": ["finance", "accounting", "financial analyst"],
+    "test_type": "K",
+    "duration": "9 minutes",
+    "job_levels": ["graduate", "professional"]
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "description": "Knowledge test for basic statistics and quantitative analysis.",
+    "skills": ["statistics", "analytics", "data", "finance"],
+    "test_type": "K",
+    "duration": "10 minutes",
+    "job_levels": ["graduate", "professional"]
+  },
+  {
+    "name": "SVAR Spoken English (US) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "description": "Spoken English assessment for customer-facing communication.",
+    "skills": ["spoken english", "language", "contact center", "customer service"],
+    "test_type": "K",
+    "duration": "",
+    "job_levels": ["entry"]
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "description": "Simulation for contact center inbound call handling and customer interaction.",
+    "skills": ["contact center", "call simulation", "customer service", "inbound calls"],
+    "test_type": "S",
+    "duration": "15 minutes",
+    "job_levels": ["entry"]
+  },
+  {
+    "name": "Entry Level Customer Serv - Retail & Contact Center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "description": "Entry-level customer service assessment for retail and contact center roles.",
+    "skills": ["customer service", "retail", "contact center", "competencies"],
+    "test_type": "P,C",
+    "duration": "19 minutes",
+    "job_levels": ["entry"]
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "description": "Phone simulation for customer service interactions.",
+    "skills": ["phone simulation", "customer service", "contact center"],
+    "test_type": "B,S",
+    "duration": "20 minutes",
+    "job_levels": ["entry"]
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "description": "Assessment for broad workplace skills and competencies across roles.",
+    "skills": ["global skills", "sales", "reskilling", "competencies", "knowledge"],
+    "test_type": "C, K",
+    "duration": "16 minutes",
+    "job_levels": ["professional"]
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "description": "Development report for global skills assessment and talent development.",
+    "skills": ["development", "reskilling", "talent audit", "sales"],
+    "test_type": "D",
+    "duration": "",
+    "job_levels": ["professional", "manager"]
+  },
+  {
+    "name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "description": "Sales-oriented OPQ motivational questionnaire report.",
+    "skills": ["sales", "motivation", "personality", "opq"],
+    "test_type": "P",
+    "duration": "",
+    "job_levels": ["professional"]
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "description": "Sales transformation report for individual contributor sales roles.",
+    "skills": ["sales", "individual contributor", "transformation"],
+    "test_type": "P",
+    "duration": "",
+    "job_levels": ["professional"]
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "description": "Personality assessment for dependability, reliability, and safety orientation.",
+    "skills": ["safety", "dependability", "reliability", "procedure compliance"],
+    "test_type": "P",
+    "duration": "10 minutes",
+    "job_levels": ["entry", "professional"]
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "description": "Manufacturing and industrial safety and dependability assessment.",
+    "skills": ["manufacturing", "industrial", "safety", "dependability", "plant operator"],
+    "test_type": "P",
+    "duration": "16 minutes",
+    "job_levels": ["entry", "professional"]
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "description": "Knowledge test for workplace health and safety practices.",
+    "skills": ["health and safety", "workplace safety", "procedure compliance"],
+    "test_type": "K",
+    "duration": "9 minutes",
+    "job_levels": ["entry", "professional"]
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "description": "Knowledge test for HIPAA security concepts.",
+    "skills": ["hipaa", "healthcare", "security", "patient records", "compliance"],
+    "test_type": "K",
+    "duration": "15 minutes",
+    "job_levels": ["entry", "professional"]
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "description": "Knowledge test for medical terminology.",
+    "skills": ["medical terminology", "healthcare", "administration"],
+    "test_type": "K",
+    "duration": "3 minutes",
+    "job_levels": ["entry"]
+  },
+  {
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "description": "Microsoft Word 365 essentials assessment.",
+    "skills": ["word", "microsoft office", "admin", "documents"],
+    "test_type": "K,S",
+    "duration": "25 minutes",
+    "job_levels": ["entry", "professional"]
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "description": "Short Microsoft Excel knowledge assessment.",
+    "skills": ["excel", "spreadsheets", "admin"],
+    "test_type": "K",
+    "duration": "6 minutes",
+    "job_levels": ["entry", "professional"]
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "description": "Short Microsoft Word knowledge assessment.",
+    "skills": ["word", "documents", "admin"],
+    "test_type": "K",
+    "duration": "4 minutes",
+    "job_levels": ["entry", "professional"]
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "description": "Microsoft Excel 365 assessment with simulation components.",
+    "skills": ["excel", "spreadsheets", "simulation", "admin"],
+    "test_type": "K,S",
+    "duration": "35 minutes",
+    "job_levels": ["entry", "professional"]
+  },
+  {
+    "name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "description": "Microsoft Word 365 assessment with simulation components.",
+    "skills": ["word", "documents", "simulation", "admin"],
+    "test_type": "K,S",
+    "duration": "35 minutes",
+    "job_levels": ["entry", "professional"]
+  }
+]

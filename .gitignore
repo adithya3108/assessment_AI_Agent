@@ -1,0 +1,24 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.log
+conversation_reports.txt
+
+# HuggingFace model cache (too large for git)
+*.bin
+*.safetensors
+
+# FAISS index (regeneratable)
+# vectorstore/  # keep this — needed for deployment
+
+# Evaluation outputs (optional to keep)
+evaluation/ragas_results.json
+evaluation/ragas_dataset.json
+.claude/
